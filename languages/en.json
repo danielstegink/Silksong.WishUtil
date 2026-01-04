@@ -1,0 +1,15 @@
+{
+  "TYPE_NAME_Delivery": "Delivery",
+  "TYPE_NAME_Donate": "Donate",
+  "TYPE_NAME_Gather": "Gather",
+  "TYPE_NAME_GrandHunt": "Grand Hunt",
+  "TYPE_NAME_Hunt": "Hunt",
+  "TYPE_NAME_Learn": "Learn",
+  "TYPE_NAME_Sprint": "Sprint",
+  "TYPE_NAME_Steel": "Steel",
+  "TYPE_NAME_Wayfarer": "Wayfarer",
+  "TYPE_NAME_Witness": "Witness",
+  "QUEST_NAME": "Test",
+  "QUEST_LOC": "Pharloom",
+  "QUEST_DESC": "Placeholder"
+}
