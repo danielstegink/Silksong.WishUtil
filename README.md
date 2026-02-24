@@ -49,3 +49,6 @@ skip this part if you set GiveAtStart to true.
 progressed the Wish.
 - Complete() tells the game to log the Wish as 
 completed.
+
+## Special Thanks
+the.ant.57 and MistDZX for testing and feedback

@@ -39,6 +39,11 @@ namespace WishUtil
                 IsEnabled = false
             };
 
+            overrideParagraphSpacingShort = new TeamCherry.SharedUtils.OverrideFloat() 
+            { 
+                IsEnabled = false 
+            };
+
             targets = new QuestTarget[0];
 
             customPickupDisplay = new UIMsgDisplay()
